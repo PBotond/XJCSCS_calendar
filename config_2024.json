@@ -1,5 +1,14 @@
 {
-  "css": ".CALENDAR-INDEX-0, .CALENDAR-INDEX-0 .dhx_body, .CALENDAR-INDEX-0 .dhx_title  { background-color: #2b4c1d; } \n.CALENDAR-INDEX-1, .CALENDAR-INDEX-1 .dhx_body, .CALENDAR-INDEX-1 .dhx_title  { background-color: #fcc601; } \n.CALENDAR-INDEX-2, .CALENDAR-INDEX-2 .dhx_body, .CALENDAR-INDEX-2 .dhx_title  { background-color: #fcc601; } \n.CALENDAR-INDEX-3, .CALENDAR-INDEX-3 .dhx_body, .CALENDAR-INDEX-3 .dhx_title  { background-color: #56993c; } \n.CALENDAR-INDEX-4, .CALENDAR-INDEX-4 .dhx_body, .CALENDAR-INDEX-4 .dhx_title  { background-color: #56993c; } \n.CALENDAR-INDEX-5, .CALENDAR-INDEX-5 .dhx_body, .CALENDAR-INDEX-5 .dhx_title  { background-color: #005e73; } \n.CALENDAR-INDEX-6, .CALENDAR-INDEX-6 .dhx_body, .CALENDAR-INDEX-6 .dhx_title  { background-color: #8c8c82; } \n.dhx_cal_navline, .dhx_scale_bar, .dhx_cal_container, .dhx_cal_header, .dhx_cal_scale_placeholder, .dhx_scale_holder, .dhx_scale_hour {background-color: #ffffff;}.event, .dhx_cal_tab.active, .dhx_cal_tab.active:hover {background-color: #56993c;} .dhx_month_head, .dhx_cal_tab, .dhx_cal_today_button {color: #56993c;} .dhx_cal_tab, .dhx_cal_tab.active {border-color: #56993c;}.dhx_month_body, .dhx_month_head, .dhx_cal_container { background-color: #ffffff; }",
+  "css": ".CALENDAR-INDEX-0, .CALENDAR-INDEX-0 .dhx_body, .CALENDAR-INDEX-0 .dhx_title  { background-color: #2b4c1d; }
+          .CALENDAR-INDEX-1, .CALENDAR-INDEX-1 .dhx_body, .CALENDAR-INDEX-1 .dhx_title  { background-color: #fcc601; }
+          .CALENDAR-INDEX-2, .CALENDAR-INDEX-2 .dhx_body, .CALENDAR-INDEX-2 .dhx_title  { background-color: #fcc601; }
+          .CALENDAR-INDEX-3, .CALENDAR-INDEX-3 .dhx_body, .CALENDAR-INDEX-3 .dhx_title  { background-color: #56993c; }
+          .CALENDAR-INDEX-4, .CALENDAR-INDEX-4 .dhx_body, .CALENDAR-INDEX-4 .dhx_title  { background-color: #56993c; }
+          .CALENDAR-INDEX-5, .CALENDAR-INDEX-5 .dhx_body, .CALENDAR-INDEX-5 .dhx_title  { background-color: #005e73; }
+          .CALENDAR-INDEX-6, .CALENDAR-INDEX-6 .dhx_body, .CALENDAR-INDEX-6 .dhx_title  { background-color: #8c8c82; }
+          .dhx_cal_tab.active, .dhx_cal_tab.active:hover {background-color: #56993c;}
+          .dhx_month_head, .dhx_cal_tab, .dhx_cal_today_button {color: #56993c;}
+          .dhx_cal_tab, .dhx_cal_tab.active {border-color: #56993c;}",
   "language": "hu",
   "skin": "contrast-white",
   "tabs": [
