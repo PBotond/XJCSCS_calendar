@@ -1,0 +1,20 @@
+{
+    "css": ".CALENDAR-INDEX-0,.CALENDAR-INDEX-0.dhx_body,.CALENDAR-INDEX-0.dhx_title { background-color: #2b4c1d; color: white;}.CALENDAR-INDEX-1,.CALENDAR-INDEX-1.dhx_body,.CALENDAR-INDEX-1.dhx_title,.CALENDAR-INDEX-2,.CALENDAR-INDEX-2.dhx_body,.CALENDAR-INDEX-2.dhx_title { background-color: #fcc601; color: #241c1c;}.CALENDAR-INDEX-3,.CALENDAR-INDEX-3.dhx_body,.CALENDAR-INDEX-3.dhx_title,.CALENDAR-INDEX-4,.CALENDAR-INDEX-4.dhx_body,.CALENDAR-INDEX-4.dhx_title { background-color: #56993c; color: #241c1c;}.CALENDAR-INDEX-5,.CALENDAR-INDEX-5.dhx_body,.CALENDAR-INDEX-5.dhx_title { background-color: #005e73; color: white;}.CALENDAR-INDEX-6,.CALENDAR-INDEX-6.dhx_body,.CALENDAR-INDEX-6.dhx_title { background-color: #464640; color: white;}.dhx-scale-bar:last-of-type { border-right: none;}.dhx-cal-month-cell:last-of-type { border-right: none;}.dhx_cal_tab.active,.dhx_cal_tab.active:hover,.dhx_cal_tab:hover,.dhx_cal_today_button:hover { background-color: #004656 !important;}.dhx_cal_tab,.dhx_cal_today_button { color: #004656;}.dhx_cal_tab.active { color: white;}.dhx_cal_tab,.dhx_cal_tab.active,.dhx_cal_tab:hover,.dhx_cal_today_button,.dhx_cal_today_button:hover,.dhx_cal_quick_info,.dhtmlXTooltip.tooltip {background-color:white; border: 2px solid #241c1c;}.dhx_cal_header { border: none; left: 0px !important;}.dhx_cal_event_clear::before,.dhx_cal_agenda_event_line_marker,.dhx_cal_qi_tcontent::before { display: none;}.dhx_scale_bar:first-child,.dhx_cal_month_cell:first-child,.dhx_cal_agenda_day_header:first-child,.dhx_cal_agenda_day_events:first-child { border-top: 2px solid #241c1c; border-right: none; border-left:none; border-bottom: none;}.dhx_scale_bar:not(:first-child),.dhx_cal_month_cell:not(:first-child),.dhx_cal_agenda_day_header:not(:first-child),.dhx_cal_agenda_day_events:not(:first-child) { border-top: 2px solid #241c1c; border-left: 2px solid #241c1c; border-right: none; border-bottom: none;}.dhx_scale_bar { line-height: 100%; font-size: min(16px, 2.6vw); font-variant: all-small-caps}.dhtmlXTooltip.tooltip { box-shadow: none;}.event { height: auto !important;}.dhx_cal_agenda_day { border:none;--dhx-scheduler-agenda-event-date-width: auto;}.dhx_cal_agenda_day:last-child { border-bottom: solid 2px #242c1c;}.dhx_cal_data{border:none;}.dhx_cal_agenda_event_line,.dhx_cal_event_line,.dhx_cal_event_clear{border: 2px solid #242c1c !important;border-radius: 4px !important;}.dhx_cal_navline{background-color: #005e73;color: white;}.dhx_cal_prev_button::before,.dhx_cal_next_button::before{color:white}#loader{background: url(\"https://raw.githubusercontent.com/PBotond/XJCSCS_calendar/refs/heads/main/1490.gif\") center center no-repeat !important;}",
+    "language": "hu",
+    "skin": "contrast-white",
+    "tabs": [
+        "month",
+        "agenda"
+    ],
+    "target": "_blank",
+    "title": "",
+    "url": [
+        "https://calendar.google.com/calendar/ical/cjf2pm4b7ti86kbagtik5o2t4eroiphs%40import.calendar.google.com/public/basic.ics",
+        "https://calendar.google.com/calendar/ical/0f19p4p2mdu17992vhcjf3l9tr9ki44u%40import.calendar.google.com/public/basic.ics",
+        "https://calendar.google.com/calendar/ical/cde1skh3p4kgkrmin4vs8ol7bmonlgu9%40import.calendar.google.com/public/basic.ics",
+        "https://calendar.google.com/calendar/ical/78knljprbk5t515o9ebmthqe1v23fchh%40import.calendar.google.com/public/basic.ics",
+        "https://calendar.google.com/calendar/ical/u99t53ldi0mo8ng6i0jc2eno3e72ivpq%40import.calendar.google.com/public/basic.ics",
+        "https://calendar.google.com/calendar/ical/4pa200auq6g6a5d712e151ql1nr8c761%40import.calendar.google.com/public/basic.ics",
+        "https://calendar.google.com/calendar/ical/feuorljokq7kc1fn45mjcmvlqsceq8uv%40import.calendar.google.com/public/basic.ics"
+    ]
+}
