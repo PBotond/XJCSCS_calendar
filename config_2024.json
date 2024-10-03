@@ -7,7 +7,7 @@
           .CALENDAR-INDEX-5, .CALENDAR-INDEX-5 .dhx_body, .CALENDAR-INDEX-5 .dhx_title  { background-color: #005e73; }
           .CALENDAR-INDEX-6, .CALENDAR-INDEX-6 .dhx_body, .CALENDAR-INDEX-6 .dhx_title  { background-color: #8c8c82; }
           .dhx_cal_tab.active, .dhx_cal_tab.active:hover {background-color: #56993c;}
-          .dhx_month_head, .dhx_cal_tab, .dhx_cal_today_button {color: #56993c;}
+          .dhx_cal_tab, .dhx_cal_today_button {color: #56993c;}
           .dhx_cal_tab, .dhx_cal_tab.active {border-color: #56993c;}",
   "language": "hu",
   "skin": "contrast-white",
