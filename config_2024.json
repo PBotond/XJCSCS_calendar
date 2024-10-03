@@ -12,7 +12,6 @@
   "language": "hu",
   "skin": "contrast-white",
   "tabs": [
-    "month",
     "agenda"
   ],
   "target": "_blank",
